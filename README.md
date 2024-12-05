@@ -1,4 +1,4 @@
-# Guidance-System-for-blind
+# Guidance-System-for-blind [Project time: June 2018 to July 2020]
 <br> This project includes deep learning with computer vision and image processing.
 Raspberry pi4 is the heart of the project.
 This project has 3 modes:
